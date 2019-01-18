@@ -1,1 +1,9 @@
-<h1> Privacy Policy </h1>
+<head>
+<title>Privacy Policy</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
