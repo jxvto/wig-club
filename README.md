@@ -1,5 +1,5 @@
 
-Privacy policy for Wigclub mobile app
+<h1>Privacy policy for Wigclub mobile app</h1>
 
 
 OVERVIEW
